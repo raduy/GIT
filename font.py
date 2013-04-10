@@ -13,16 +13,16 @@ class FontLoader:
 ( (_ \
  \___/
  '''
-		font.letters['I'] = r'''
+        font.letters['I'] = r'''
   __  
  (  ) 
   )(  
  (__) 
  '''
-		font.letters['T'] = r'''
+        font.letters['T'] = r'''
  ____ 
 (_  _)
   )(  
  (__) 
 '''
-		return font
+        return font
