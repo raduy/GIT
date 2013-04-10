@@ -10,7 +10,7 @@ def main():
     drawer.draw(text)
 
 def getText():
-    return 'Git's
+    return 'Git'
 
 class TextDrawer:
     def setFont(self, font):
