@@ -1,6 +1,3 @@
 class Font:
-    pass
-
-class FontLoader:
-    def loadFont(self, directory):
-        pass
+    def __init__(self, name):
+        self.name = name
